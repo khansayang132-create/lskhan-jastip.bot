@@ -1,1 +1,1 @@
-# lskhan-jastip.bot
+Grant permission to read GPT# lskhan-jastip.bot
